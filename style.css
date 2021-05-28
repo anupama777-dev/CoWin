@@ -1,0 +1,294 @@
+.heading
+{
+    background-color:rgb(9, 9, 102) ;
+    font-size: medium;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    height: 4rem;  
+}
+#img{
+    width: 1.5rem;
+    margin-left: 9rem;
+    float: left;
+    margin-top: 0.5rem;
+}
+.content{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.3rem;
+    float: left;
+    font-size: 1.6rem;
+}
+.content:hover{
+    text-decoration: underline;
+}
+.content1{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 0.7rem;
+    float: left;
+    margin-left: 15rem;
+}
+.content1:hover{
+    text-decoration: underline;
+}
+.content2{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.7rem;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 1rem; 
+}
+.content2:hover{
+    text-decoration: underline;
+}
+.content3{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.7rem;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 1rem;  
+}
+.content3:hover{
+    text-decoration: underline;
+}
+.content4{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.7rem;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 1rem;  
+}
+.content4:hover{
+    text-decoration: underline;
+}
+.content5{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.7rem;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 1rem; 
+}
+.content5:hover{
+    text-decoration: underline;
+}
+.content6{
+    text-decoration: none;
+    color: white;
+    margin-top: 0.7rem;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 1rem;  
+}
+.content6:hover{
+    text-decoration: underline;
+}
+.head2{
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.img2{
+    width: 17rem;
+    height: 5rem;
+    margin-left: 14.5rem;
+    margin-top: 1rem;
+}
+.btn1{
+    margin-left: 90rem;
+    margin-top: 2rem;
+    width: 20rem;
+    color: black;
+}
+.btn1:hover{
+    background-color: rgb(9, 9, 102);
+    color: white;
+}
+.img3{
+    height: 35rem;
+    width: 100%;
+}
+.content7{
+    margin-top: 2rem;
+    margin-left: -4rem;
+    text-decoration: none;
+    color: black;
+}
+.head3{
+    margin-left: 60rem;
+}
+.btn2{
+    border: none;
+    float: left;
+    border-radius: 10rem;
+    height: 5rem;
+    background-color: white;
+    margin-top: 2rem;
+    border-style: ridge;
+    width: 15rem;
+}
+.btn2:hover{
+    background-color:rgb(9, 9, 102);
+    color: white;
+}
+.head4{
+    height: 55rem;
+    background: #fdbc00 url(https://prod-cdn.preprod.co-vin.in/assets/images/Vectorbg.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-top: 6rem;
+    color:rgb(9, 9, 102);
+}
+.img4{
+    margin-top: 5rem;
+    margin-left: 16rem;
+    height: 16rem;
+    width: 16rem;
+}
+.content8{
+    text-align: center;
+    padding-top: 5rem;
+}
+.sub{
+    margin-left: 4rem;
+    float: left;
+}
+.content9{
+    font-size: 2rem;
+    color: black;
+    margin-left: 10rem;
+}
+.para{
+    color: black;
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 400;
+    font-family: Roboto,sans-serif;
+}
+.btn3{
+    background: none;
+    width: 40rem;
+    height: 5rem;
+    float: left;
+    font-size: 1.8rem;
+    margin-left: 5rem;
+}
+.btn3:hover{
+    background-color: rgb(9, 9, 102);
+    color: white;
+}
+.sub1{
+    margin-left: 40rem;
+}
+.btn4{
+    width: 15rem;
+    margin-left: 2rem;
+    height: 5rem;
+    background: none;
+    font-size: 1.8rem;
+}
+.btn4:hover{
+    background-color: rgb(9, 9, 102);
+    color: white;
+}
+.img5{
+    margin-top: 4rem;
+    width: 75.7rem;
+    height: 50rem;
+}
+.btn5{
+    margin-top: 4rem;
+    width: 18rem;
+    height: 4rem;
+    font-size: 1.7rem;
+    margin-left: 65rem;
+    background-color: white;
+    color: rgb(9, 9, 102);
+    border-color: black;
+}
+.btn5:hover{
+   color: #fdbc00;
+}
+.content10{
+    margin-left: 65rem;
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+.img6{
+    margin-top: 4rem;
+    width: 20rem;
+    height: 5rem; 
+    margin-left: 34rem;
+}
+.img7{
+    width: 20rem;
+    height: 4rem;
+    margin-top: 4rem;
+    margin-left: 5rem;
+}
+.img8{
+    height: 8.5rem;
+    width: 8.5rem;
+    margin-top: 4.5rem;
+    margin-left: 5rem;
+}
+.img9{
+    width: 16rem;
+    height: 7rem;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+.img10{
+    width: 5rem;
+    height: 9rem;
+    margin-left: 12rem;
+    margin-top: 2rem;
+}
+.img11{
+    width: 12rem;
+    height: 3.5rem;
+    margin-left: 5rem;
+}
+.head5{
+    background-color: #04122f;
+    height: 13rem; 
+}
+.head6{
+    background-color: black;
+    height: 4rem;
+    display: inline-block;
+    width: 100%;
+}
+.content11{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+    margin-left: 95rem;
+}
+.call{
+    text-decoration: none;
+    color: rgb(202, 186, 186);
+}
+.call:hover{
+    color: blue;
+}
+html{
+    font-size: 62.5%;
+}
+@media screen and (max-width: 1060px) {
+    #heading { width:67%; }
+    .head2 { width:30%; margin-left:3%;}  
+}
+@media screen and (max-width: 768px) {
+    #heading { width:100%; }
+    #head2 { width:100%; margin:0; border:none; }
+}
+@media (min-width: 640px) { body {font-size:1rem;} } 
+@media (min-width:960px) { body {font-size:1.2rem;} } 
+@media (min-width:1100px) { body {font-size:1.5rem;} } 
